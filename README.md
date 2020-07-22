@@ -6,4 +6,6 @@ Text Entailment using GloVe and Neural Network ensemble.
 <p align=center">
 |Column name| Description|
 |-----------|------------|
-                
+| annotator_labels|abcd|
+| genre|abcd|
+
