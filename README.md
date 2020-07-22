@@ -9,3 +9,4 @@ Text Entailment using GloVe and Neural Network ensemble.
 | annotator_labels|abcd|
 | genre|abcd|
 
+</p>
