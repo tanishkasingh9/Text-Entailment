@@ -4,9 +4,9 @@ Text Entailment using GloVe and Neural Network ensemble.
 
 ## Dataset Explained
 <p align=center">
-|Column name| Description|
+| Column name | Description |
 | --------- | ---------- |
-| annotator_labels|abcd|
-| genre|abcd|
+| annotator_labels | abcd |
+| genre | abcd |
 
 </p>
