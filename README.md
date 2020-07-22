@@ -7,8 +7,11 @@ Text Entailment using GloVe and Neural Network ensemble.
                 
 | Column name | Description |
 | --------- | ---------- |
-| annotator_labels | abcd |
-| genre | abcd |
+| annotator_labels | entailment, contradiction or neutral |
+| genre | category tag |
+| gold_label | true annotations |
+| pairID | unique ID for annotation-genre pair |
+| promptID | unique ID for the text |
 
 </p>
-hellooo
+
